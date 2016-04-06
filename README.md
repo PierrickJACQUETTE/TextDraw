@@ -6,11 +6,15 @@ Taper make
 Puis aller dans dossier "explication" pour lire le mode d'emploi
 
 1 Introduction
+
 1.1 Objet
+
 Ce document décrit ici les aspects fonctionnels du programme TextDraw réalisé
 dans le cadre du projet informatique de la licence Informatique de l'Université
 Paris 7 Diderot.
+
 1.2 Vue d'ensemble
+
 TextDraw est un éditeur textuel d'images. Il interprète des instructions placées
 dans un fichier texte que l'on place en argument lors de l'exécution du logiciel
 dans un terminal de commande.
@@ -21,7 +25,10 @@ telles que :
 - la symétrie
 - la rotation
 - l'homothétie
+
+
 2 Environnement
+
 Ce programme a été développé à partir du langage de programmation JAVA.
 Il s'inspire du modèle Jflex, un analyseur syntaxique, avec un système de jetons,
 un Parser et un Lexer.
